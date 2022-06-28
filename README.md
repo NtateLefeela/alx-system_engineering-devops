@@ -1,1 +1,1 @@
-9. Duplicate last line
+ 0. <o>
