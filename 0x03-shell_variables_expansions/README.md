@@ -1,1 +1,1 @@
-a script that creates a new local variable
+ Create a script that counts the number of directories in the PATH

@@ -1,0 +1,330 @@
+[33mcommit 51cee70e6a7aaf242607dac1a67ae592510d9916[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Wed Jun 29 12:57:45 2022 -0700
+
+    10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath
+
+A	0x03-shell_variables_expansions/10-love_exponent_breath
+M	0x03-shell_variables_expansions/README.md
+M	README.md
+
+[33mcommit 8c151216ff9a63c9ad1ca46a63ed1b51598e0a77[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Wed Jun 29 12:46:00 2022 -0700
+
+    6. Local variable
+
+A	0x03-shell_variables_expansions/6-create_local_variable
+M	0x03-shell_variables_expansions/README.md
+M	README.md
+
+[33mcommit b6c2708f7262ec1b28adc2955432e988bb97daa3[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Wed Jun 29 12:37:44 2022 -0700
+
+    5. Local variables
+
+A	0x03-shell_variables_expansions/5-local_variables
+A	0x03-shell_variables_expansions/README
+A	0x03-shell_variables_expansions/md
+A	README
+A	md
+
+[33mcommit 88b72f9e8b4b02c0546adcb78e91f1ee8ecfcf8c[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Wed Jun 29 11:07:34 2022 -0700
+
+    3. If the path be beautiful, let us not ask where it leads
+
+A	0x03-shell_variables_expansions/3-paths
+M	0x03-shell_variables_expansions/README.md
+M	README.md
+
+[33mcommit 235fd292d1a61f274462671611b537a5e91db46e[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Wed Jun 29 10:27:24 2022 -0700
+
+    2. The path to success is to take massive, determined action
+
+A	0x03-shell_variables_expansions/2-path
+M	0x03-shell_variables_expansions/README.md
+M	README.md
+
+[33mcommit 11e5c6bdceda2edac80201e90c61a8a704995055[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Tue Jun 28 14:27:21 2022 -0700
+
+    hello you task
+
+A	0x03-shell_variables_expansions/1-hello_you
+M	0x03-shell_variables_expansions/README.md
+M	README.md
+
+[33mcommit a78039918d74461b70ecb06679ebc9f0707b42d2[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Tue Jun 28 14:18:09 2022 -0700
+
+     script that creates an alias
+
+M	0x03-shell_variables_expansions/0-alias
+M	README.md
+
+[33mcommit 54472d55283fbd11d1f4a68a06bdad64248e219c[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Tue Jun 28 13:55:50 2022 -0700
+
+    script that creates an alias task
+
+A	0x03-shell_variables_expansions/0-alias
+A	0x03-shell_variables_expansions/README.md
+M	README.md
+
+[33mcommit e6dddfac44ab986e908b996ea95aa67b49f00392[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Tue Jun 28 13:15:31 2022 -0700
+
+     9. Duplicate last line
+
+A	0x02-shell_redirections/9-duplicate_last_line
+M	0x02-shell_redirections/README.md
+M	README.md
+
+[33mcommit 51d836b690c8e8eaf05e51c5185fb5a19cae8ea3[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Tue Jun 28 13:04:20 2022 -0700
+
+     save current state of directory
+
+M	0x02-shell_redirections/7-file
+A	0x02-shell_redirections/8-cwd_state
+M	0x02-shell_redirections/README.md
+A	0x02-shell_redirections/ls_cwd_content
+A	7-file
+M	README.md
+
+[33mcommit 4a764e71c7d3beeaa6ebfceb39f9bc0033cf0f0d[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Tue Jun 28 12:02:38 2022 -0700
+
+     7. It is a good file that cuts iron without making a noise
+
+A	"0x02-shell_redirections/ \\*\\'Best"
+A	0x02-shell_redirections/7-file
+M	0x02-shell_redirections/README.md
+M	README.md
+
+[33mcommit e23896ff7d58acf5fed3922768f9fb5b15f75e6d[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Mon Jun 27 14:43:53 2022 -0700
+
+     6. Line #2
+
+A	0x02-shell_redirections/6-third_line
+M	0x02-shell_redirections/README.md
+A	0x02-shell_redirections/iacta
+M	README.md
+
+[33mcommit 0b3cc6d29ba4413c5b7bd9ac4d75ac42ab9b290e[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Mon Jun 27 14:23:50 2022 -0700
+
+     first ones actually
+
+A	0x02-shell_redirections/5-firstlines
+M	0x02-shell_redirections/README.md
+M	README.md
+
+[33mcommit fb6bee721c32ade03ae5b796416c1a5f75d586d4[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Mon Jun 27 14:11:03 2022 -0700
+
+     4. Last lines of a file
+
+A	0x02-shell_redirections/4-lastlines
+M	0x02-shell_redirections/README.md
+M	README.me
+
+[33mcommit 0936de9f460a8943e1e0d33e58ec71f54345a50a[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Mon Jun 27 14:00:55 2022 -0700
+
+    3-twofiles
+
+A	0x02-shell_redirections/3-twofiles
+M	0x02-shell_redirections/README.md
+M	README.md
+
+[33mcommit 6b3584a8d193ac798d41af0a17ddab93979da854[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Mon Jun 27 13:52:41 2022 -0700
+
+     2-hellofile
+
+A	0x02-shell_redirections/2-hellofile
+M	0x02-shell_redirections/README.md
+M	README.md
+
+[33mcommit 9ecd68d0b53193c9414eee829414f8657afac1b3[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Mon Jun 27 13:42:33 2022 -0700
+
+    1-confused_smiley
+
+A	0x02-shell_redirections/1-confused_smiley
+M	0x02-shell_redirections/README.md
+A	0x02-shell_redirections/smiley
+M	README.md
+
+[33mcommit 6ac6b8784743c38255ab2fffbeaa098a808cc0b0[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Mon Jun 27 13:25:54 2022 -0700
+
+     "Hello, World"
+
+A	0x02-shell_redirections/0-hello_world
+A	0x02-shell_redirections/README.md
+M	README.md
+
+[33mcommit 0a182796c56750e86dea16614d79c0667baf402d[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Sat Jun 25 11:23:08 2022 -0700
+
+    13-symbolic_link task
+
+A	0x00-shell_basics/13-symbolic_link
+A	0x00-shell_basics/README
+A	0x00-shell_basics/_ls_
+A	0x00-shell_basics/md
+M	README.md
+
+[33mcommit 4cc523c0cc8f13679176501c49ce17fbf9c3e8ff[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Sat Jun 25 10:42:51 2022 -0700
+
+     Copy HTML files task
+
+A	0x00-shell_basics/14-copy_html
+M	0x00-shell_basics/README.md
+M	README.md
+
+[33mcommit 537be0186cc473baecef191a28acb78420da0b53[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Fri Jun 24 05:17:02 2022 -0700
+
+    Lists task
+
+A	0x00-shell_basics/11-lists
+M	0x00-shell_basics/README.md
+M	README.md
+
+[33mcommit 370c93c2d8f2c808e50606a46935306ab61c372d[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Fri Jun 24 03:16:35 2022 -0700
+
+    Back to the future task
+
+A	0x00-shell_basics/10-back
+M	0x00-shell_basics/README.md
+M	README.md
+
+[33mcommit 4eb05ee0082299dbecd37615ec7b91f08f78cbaa[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Fri Jun 24 03:05:28 2022 -0700
+
+    Bye bye My first directory task
+
+A	0x00-shell_basics/9-firstdirdeletion
+M	0x00-shell_basics/README.md
+M	README.md
+
+[33mcommit 2b95928b901a3004a1c71699766b1f582438873d[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Thu Jun 23 14:46:36 2022 -0700
+
+     Bye bye Betty task
+
+A	0x00-shell_basics/8-firstdelete
+M	0x00-shell_basics/README.md
+M	README.md
+
+[33mcommit e41dd08e1801a455a6316ad8149353fbe667e314[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Thu Jun 23 14:33:06 2022 -0700
+
+    cd ../
+    pwd
+     -m
+
+A	0x00-shell_basics/7-movethatfile
+M	0x00-shell_basics/README.md
+M	README.md
+
+[33mcommit 52d9048ab0d5fb30590850abe9056ba8da9e5f79[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Thu Jun 23 14:02:00 2022 -0700
+
+     Welcome task
+
+A	0x00-shell_basics/6-firstdirectory
+M	0x00-shell_basics/README.md
+M	README.md
+
+[33mcommit f20313436304d244505561124dba9a5400f4ad26[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Thu Jun 23 13:08:14 2022 -0700
+
+     I love numbers task
+
+A	0x00-shell_basics/5-listfilesdigitonly
+M	0x00-shell_basics/README.me
+M	README.me
+
+[33mcommit 9c272cb778511c987761ef1575c1a1197944592d[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Thu Jun 23 12:45:44 2022 -0700
+
+     Hidden files task
+
+A	0x00-shell_basics/4-listmorefiles
+M	0x00-shell_basics/README.me
+M	README.me
+
+[33mcommit 20d1be315ae005d575103d8d3de8cfb77cbe2b84[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Thu Jun 23 12:34:29 2022 -0700
+
+     The long format task
+
+A	0x00-shell_basics/3-listfiles
+A	0x00-shell_basics/README.me
+A	README.me
+
+[33mcommit e1060d3e3d0634fc97aacebeb44091f4cc94915b[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Thu Jun 23 12:23:29 2022 -0700
+
+     2-bring_me_home
+
+A	0x00-shell_basics/2-bring_me_home
+M	0x00-shell_basics/README.md
+M	README.md
+
+[33mcommit e7eb2db85bc53cafa3924eb2ceb84fe1b89989d0[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Thu Jun 23 11:55:26 2022 -0700
+
+    What’s in there?
+
+A	0x00-shell_basics/1-listit
+M	0x00-shell_basics/README.md
+M	README.md
+
+[33mcommit 1627bd1b5f00a45a21d7bb7898647e0cd34e8448[m
+Author: NtateLefeela <ntatefeelas@gmail.com>
+Date:   Thu Jun 23 10:23:54 2022 -0700
+
+     where am i
+
+A	0x00-shell_basics/0-current_working_directory
+A	0x00-shell_basics/README.md
+A	README.md
