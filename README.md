@@ -1,1 +1,1 @@
- No more javascript
+My name is Betty
